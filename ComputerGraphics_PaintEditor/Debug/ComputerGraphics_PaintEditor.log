@@ -1,0 +1,66 @@
+﻿  main.cpp
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(128,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(554,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(555,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(556,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(557,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(558,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(559,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(563,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(564,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(565,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(566,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(567,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(568,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(572,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(573,30): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(574,31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(575,30): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(724,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(721,8): warning C4101: 'c': unreferenced local variable
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(748,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(750,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(762,34): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(762,21): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(864,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(865,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(947,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(950,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(961,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(964,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(969,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(973,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(977,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(981,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(1148,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(1149,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(1190,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(1191,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(1211,23): warning C4101: 'y_pos': unreferenced local variable
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(1211,30): warning C4101: 'y_neg': unreferenced local variable
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(1211,16): warning C4101: 'x_neg': unreferenced local variable
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(1211,9): warning C4101: 'x_pos': unreferenced local variable
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(1276,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(1278,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(1278,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(1279,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(1280,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(1375,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(1427,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(1486,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(1489,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(1564,28): warning C4101: 'k': unreferenced local variable
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(1591,17): warning C4101: 'Y': unreferenced local variable
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(1591,8): warning C4101: 'X': unreferenced local variable
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(1823,18): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(1897,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(1916,33): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(2009,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(2010,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(2023,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(2023,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(2014,9): warning C4101: 'index': unreferenced local variable
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(2013,10): warning C4101: 'depth': unreferenced local variable
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(2012,9): warning C4101: 'color': unreferenced local variable
+C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\main.cpp(1126): warning C4715: 'IsAbove': not all control paths return a value
+  ComputerGraphics_PaintEditor.vcxproj -> C:\Users\Star\source\repos\ComputerGraphics_PaintEditor\Debug\ComputerGraphics_PaintEditor.exe
